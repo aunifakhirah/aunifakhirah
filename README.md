@@ -2,7 +2,7 @@
 
 ## About Me
 
-🎓 Computer Science Student
+🎓 Software Engineer Student
 
 📚 Currently learning Software Development, Networking, and Operating Systems
 
