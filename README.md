@@ -65,7 +65,6 @@ Brief description of your project.
 ### ✨ Fun Fact
 
 I enjoy learning new technologies and solving real-world problems through programming.
-## Hi there 👋
 
 <!--
 **aunifakhirah/aunifakhirah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
