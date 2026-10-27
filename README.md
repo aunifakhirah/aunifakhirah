@@ -48,17 +48,17 @@ Brief description of your project.
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aunifakhirah\&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aunifakhirah\&layout=compact)
 
 ---
 
 ## 📫 Connect With Me
 
-* GitHub: https://github.com/YOUR_USERNAME
+* GitHub: https://github.com/aunifakhirah
 * LinkedIn: YOUR_LINKEDIN
-* Email: YOUR_EMAIL
+* Email: aunifakhirah15@gmail.com
 
 ---
 
